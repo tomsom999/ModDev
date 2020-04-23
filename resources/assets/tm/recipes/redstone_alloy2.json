@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "tm:redstone_alloy_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "tm:redstone_alloy",
+        "count": 9
+    }
+}

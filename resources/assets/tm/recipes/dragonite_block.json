@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:dragonite_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:dragonite_block",
+        "count": 1
+    }
+}

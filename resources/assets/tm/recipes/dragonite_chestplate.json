@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:dragonite_ingot"
+        }
+
+    },
+   
+    "result":
+    {
+        "item": "tm:dragonite_chestplate",
+        "count": 1
+    }
+}

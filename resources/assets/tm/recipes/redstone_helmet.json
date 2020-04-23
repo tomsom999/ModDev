@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        ""
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:redstone_alloy"
+        }
+
+    },
+   
+    "result":
+    {
+        "item": "tm:redstone_helmet",
+        "count": 1
+    }
+}

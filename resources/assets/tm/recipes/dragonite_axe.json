@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " RR",
+        " SR",
+        " S " 
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:dragonite_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:dragonite_axe",
+        "count": 1
+    }
+}

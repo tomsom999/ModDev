@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PPP",
+        "PAP",
+        "PPP" 
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:poisoned_potato"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:redstone_axe",
+        "count": 1
+    }
+}
