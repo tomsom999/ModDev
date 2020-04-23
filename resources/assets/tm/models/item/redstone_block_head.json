@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "tm:block/redstone_block_head"
+   }
+}

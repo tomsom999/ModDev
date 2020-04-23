@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0,variant=silver": {"model": "tm:sapling_silver"},
+        "stage=1,variant=silver": {"model": "tm:sapling_silver"}
+    }
+}

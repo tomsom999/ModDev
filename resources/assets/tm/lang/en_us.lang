@@ -1,0 +1,69 @@
+
+//Items
+item.redstone_alloy.name=Redstone Alloy
+item.molten_redstone.name=Molten Redstone
+item.dragonite_ingot.name=Dragonite Ingot
+item.copper_ingot.name=Copper Ingot
+
+//Gui
+itemgroup.modtab=Tomsom's Tab
+
+
+//Blocks
+tile.redstone_alloy_block.name=Block of Redstone Alloy
+tile.dragonite_block.name=Dragonite Block
+tile.copper_block.name=Copper Block
+
+//ores
+tile.dragonite_ore.name=Dragonite Ore
+tile.copper_ore.name=Copper Ore
+
+//Tools
+item.redstone_sword.name=Redstone Sword
+item.redstone_shovel.name=Redstone Shovel
+item.redstone_pickaxe.name=Redstone Pickaxe
+item.redstone_axe.name=Redstone Axe
+item.redstone_hoe.name=Redstone Hoe
+
+item.dragonite_sword.name=Dragonite Sword
+item.dragonite_shovel.name=Dragonite Shovel
+item.dragonite_pickaxe.name=Dragonite Pickaxe
+item.dragonite_axe.name=Dragonite Axe
+item.dragonite_hoe.name=Dragonite Hoe
+
+item.copper_sword.name=Copper Sword
+item.copper_shovel.name=Copper Shovel
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_axe.name=Copper Axe
+item.copper_hoe.name=Copper Hoe
+
+//Armor
+item.redstone_helmet.name=Redstone Helmet
+item.redstone_chestplate.name=Redstone Chestplate
+item.redstone_leggings.name=Redstone Leggings
+item.redstone_boots.name=Redstone Boots
+
+item.dragonite_helmet.name=Dragonite Helmet
+item.dragonite_chestplate.name=Dragonite Chestplate
+item.dragonite_leggings.name=Dragonite Leggings
+item.dragonite_boots.name=Dragonite Boots
+
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+
+//Food
+item.poisoned_apple.name=Poisoned Apple
+
+//Tree stuff
+tile.planks_silver.name=Silver Planks
+tile.log_silver.name=Silver Log
+tile.leaves_silver.name=Silver Leaves
+tile.sapling_silver.name=Silver Sapling
+
+//Heads
+item.redstone_block_head.name=Redstone Block Head
+item.creeper_head.name=Creeper Head
+item.chicken_block_head.name=Chicken Head
+item.sheep_block_head.name=Sheep Head

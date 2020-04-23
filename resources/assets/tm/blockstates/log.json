@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=x,variant=silver": {"model": "tm:log_silver"},
+        "axis=y,variant=silver": {"model": "tm:log_silver"},
+        "axis=z,variant=silver": {"model": "tm:log_silver"},
+        "axis=none,variant=silver": {"model": "tm:log_silver"}
+    }
+}
